@@ -6,3 +6,7 @@ Estou aprendendo GitHub...
 ##O que estou aprendendo?
 GitHub
 Versionamento
+
+## Nova funcionalidade
+
+Nesta versão estou testando uma nova funcionalidade para o projeto.
