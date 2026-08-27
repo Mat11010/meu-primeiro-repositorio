@@ -7,6 +7,3 @@ Estou aprendendo GitHub...
 GitHub
 Versionamento
 
-## Nova funcionalidade
-
-Nesta versão estou testando uma nova funcionalidade para o projeto.
