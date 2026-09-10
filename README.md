@@ -5,8 +5,8 @@ Estou aprendendo GitHub...
 
 ##O que estou aprendendo?
 GitHub
-Versionamento
+Versionamento de código
 
 ##Nova Branch
 
-Nessa versão estou testando uma nova funcionalidade. edição 
+
