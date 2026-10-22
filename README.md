@@ -14,6 +14,3 @@ Nessa versão estou testando uma nova funcionalidade. edição
 clonagem
 
 clonagem2
-
-alteração git pull
-Alteração git pull 2
